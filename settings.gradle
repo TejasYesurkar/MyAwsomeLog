@@ -1,0 +1,3 @@
+include ':mysnackbarlibrary'
+include ':app'
+rootProject.name = "MyAwesomeSnackBar"
